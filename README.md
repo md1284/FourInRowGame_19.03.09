@@ -1,4 +1,4 @@
 # FourInRowGame_19.03.09
-base code forked https://github.com/hamadmarri/four-in-a-row-game
+The base code(drawing board, Making graph, etc...) is forked https://github.com/hamadmarri/four-in-a-row-game
 
-There are two version MCTS and minmax algorithm.
+The core algorithms, which MCTS(Monte Carlo Tree Search) and min-max algorithm are referred to https://www.youtube.com/watch?v=UXW2yZndl7U
